@@ -1,0 +1,30 @@
+.parent{
+    border: 1px solid rgb(215, 211, 211);
+    width: 400px;
+    margin-left: 700px;
+    margin-top: 50px;
+    text-align: center;
+}
+.sub{
+    width: 200px;
+    margin-top: 10px;
+}
+.sub1 {
+
+    text-align: center;
+}
+.sub2{
+    width: 200px;
+    margin-top: -5px;
+}
+.parent2{
+    border: 1px solid rgb(215, 211, 211);
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 700px;
+    text-align: center;
+}
+.parent3{
+    height: 10px;
+    
+}
