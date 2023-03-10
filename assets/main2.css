@@ -81,16 +81,19 @@
      font-weight: 600;
  }
  .downloadLogo {
-    width: 125px;
-    margin-left: 50px;
-    text-align: justify;
-    
-    
+    flex-direction: row;
+    align-items: center;
+    margin-top:10px;
  }
  .get {
      align-items: center;
  }
- 
+ .gPlay {
+    width: 150px;
+ }
+ .mSoft {
+    width: 125px;
+ }
  
  
  
